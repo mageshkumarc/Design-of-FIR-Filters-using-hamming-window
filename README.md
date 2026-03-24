@@ -63,7 +63,7 @@ title('Frequency Response of FIR LPF using Hamming Window');
 ```
 
 # OUTPUT
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/edbfe553-88b0-4c35-8b0d-79d28dd60076" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/f67df918-bbd1-4f82-92e0-631aef22b28a" />
 
 # RESULT
 To generate design of low pass FIR digital filter using SCILAB completed sucessfully.
